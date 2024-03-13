@@ -60,7 +60,7 @@ public class Reservation5 {
         }
     }
 
-    // Update method signatures to accept necessary parameters
+    
     public void jammu() {
         System.out.println("You chose Jammu.");
     }
